@@ -72,6 +72,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KVVPERTA
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for rampshh\Design Rule Check - ramps.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
